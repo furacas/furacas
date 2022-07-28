@@ -27,7 +27,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN  }}
         run: |
            git clone https://github.com/beimengyeyu/beimengyeyu.git
-           cp --path dist/* beimengyeyu/img
+           cp dist/* beimengyeyu/img
            cd beimengyeyu
            git add .
            git config --global user.name "beimengyeyu"
