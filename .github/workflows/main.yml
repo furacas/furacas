@@ -29,11 +29,11 @@ jobs:
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push
         run: |
-           git clone https://${GITHUB_TOKEN}@github.com/beimengyeyu/beimengyeyu.git
+           git clone https://${ACCESS_TOKEN}@github.com/beimengyeyu/beimengyeyu.git
            cp --path dist/* beimengyeyu/img
            cd beimengyeyu
            git add .
            git config --global user.name "beimengyeyu"
            git config --global user.email "me@beimengyeyu.com"
            git commit -m "update"
-           git push https://${GITHUB_TOKEN}@github.com/beimengyeyu/beimengyeyu.git -f
+           git push https://${ACCESS_TOKEN}@github.com/beimengyeyu/beimengyeyu.git -f
