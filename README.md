@@ -2,7 +2,7 @@
 - [个人主页](https://i.beimengyeyu.com)
 - [博客](https://www.beimengyeyu.com)
 - 技术栈
-  - java、Spring、Spring Boot
+  - Java、Spring、Spring Boot
   - 逆向、汇编感兴趣
   - 略懂Python
   - 略懂前端
