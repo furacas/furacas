@@ -30,7 +30,7 @@ jobs:
            cp dist/* beimengyeyu/img
            cd beimengyeyu
            git add .
-           git config --global user.name "beimengyeyu"
-           git config --global user.email "me@beimengyeyu.com"
+           git config --global user.name "ci"
+           git config --global user.email "ci@beimengyeyu.com"
            git commit -m "update"
            git push https://${GITHUB_TOKEN}@github.com/beimengyeyu/beimengyeyu.git -f
