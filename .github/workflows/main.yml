@@ -26,11 +26,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN  }}
         run: |
-           git clone https://github.com/beimengyeyu/beimengyeyu.git
-           cp dist/* beimengyeyu/img
-           cd beimengyeyu
+           git clone https://github.com/furacas/furacas.git
+           cp dist/* furacas/img
+           cd furacas
            git add .
            git config --global user.name "ci"
            git config --global user.email "ci@beimengyeyu.com"
            git commit -m "update"
-           git push https://${GITHUB_TOKEN}@github.com/beimengyeyu/beimengyeyu.git -f
+           git push https://${GITHUB_TOKEN}@github.com/furacas/furacas.git -f
