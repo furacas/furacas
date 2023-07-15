@@ -1,6 +1,6 @@
 初次见面，我是北梦
-- [个人主页](https://i.beimengyeyu.com)
-- [博客](https://www.beimengyeyu.com)
+- [个人主页](https://i.furacas.com)
+- [博客](https://www.furacas.com)
 - 技术栈
   - Java、Spring、Spring Boot
   - 逆向、汇编感兴趣
