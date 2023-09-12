@@ -2,8 +2,8 @@
 
 🛠 **技术栈**:
 - 🌱 Java | Spring | Spring Boot
-- 🐍 熟悉Python
-- 🌀 熟悉Go
+- 🐍 偶尔写写Python
+- 🌀 偶尔写写Go
 - 🌐 基础前端技能以及React开发经验
 - 🔍 对逆向工程和汇编充满兴趣
 
