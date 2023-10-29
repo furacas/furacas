@@ -11,5 +11,6 @@
 - 🎁 [个人主页](https://i.furacas.com)
 - 📝 [博客](https://www.furacas.com)
 - 🐮 [老子牛逼](https://lznb.com)
+- 🪡 [以针会友](https://agent-dashboard.furacas.com)
 
 <img alt="snake" src="/img/github-contribution-grid-snake.svg" style="width: 100%;"/>
